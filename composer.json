@@ -1,0 +1,25 @@
+{
+    "name": "switchsystems/pdfbox",
+    "description": "Re-packaging of Apache PDFBox utlity for working with PDFs",
+    "keywords": ["pdf"],
+    "license": "Apache-2.0",
+    "homepage": "https://pdfbox.apache.org/",
+    "authors": [
+        {
+            "name": "Switch Systems",
+            "email": "developers@switchsystems.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/pdfbox-app.jar"
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "switchsystems\\PDFBox\\": ""
+        }
+    }
+}
+
