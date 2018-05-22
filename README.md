@@ -13,6 +13,6 @@ The git tag is equal to the packages binary version.
 The location of the binary is available via the `PATH` constant:
 
 ``` php
-\switchsystems\PDFBox\PDFBox::PATH
+\SwitchSystems\PDFBox\PDFBox::PATH
 ```
 

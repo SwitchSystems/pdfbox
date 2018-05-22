@@ -1,5 +1,5 @@
 <?php
-namespace switchsystems\PDFBox;
+namespace SwitchSystems\PDFBox;
 
 class PDFBox
 {
